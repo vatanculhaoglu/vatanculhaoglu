@@ -9,7 +9,7 @@ I measure both.
 
 [Portfolio](https://vatanculhaoglu.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/vatan-%C3%A7ulhao%C4%9Flu-bb3209319/) ·
-vatanculhaoglu1@gmail.com
+vatanculhaoglu@gmail.com
 
 ---
 
@@ -93,4 +93,4 @@ public — it is that site's own source, and the one repository here you can rea
 ---
 
 Next step is an MSc in Artificial Intelligence in Computer Science. Seeking an internship or a
-role in AI and software engineering — [get in touch](mailto:vatanculhaoglu1@gmail.com).
+role in AI and software engineering — [get in touch](mailto:vatanculhaoglu@gmail.com).
