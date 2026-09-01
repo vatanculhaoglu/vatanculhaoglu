@@ -82,7 +82,7 @@ public — it is that site's own source, and the one repository here you can rea
 
 ## Tools
 
-| | |
+| Area | Stack |
 |---|---|
 | **AI & vision** | Python · Ultralytics YOLO · SAHI · ByteTrack · BoT-SORT · OpenCV · PyTorch · TensorFlow/Keras · scikit-learn · NumPy · pandas · FiftyOne · Weights & Biases · MATLAB |
 | **Parallel & systems** | C++17 · OpenMP · MPI · CUDA · Linux · Bash |
